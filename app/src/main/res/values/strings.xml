@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+
+    <string name="txt_latitud">Latitud</string>
+    <string name="txt_longitudd">longitudd</string>
+
+    <string name="videoView">video</string>
+    <string name="btn1">Ir a Video</string>
+    <string name="btn2">Regresar</string>
+</resources>
